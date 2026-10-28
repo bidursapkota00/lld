@@ -33,5 +33,3 @@
 - **Design In-Memory File System** (directories, files, operations)
 
 - **Design Vending Machine** (state machine, inventory, payment)
-
-- **Design TinyURL** (hash map, collisions)
